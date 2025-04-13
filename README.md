@@ -47,7 +47,7 @@ BiFPN is an enhanced feature fusion architecture that forms a critical part of E
 - 🔄 Seamless scaling across model sizes (EfficientDet-D0 to D7).
 - 🧠 Learns optimal paths for feature fusion during training.
 
-![BiFPN Architecture](path_to_your_bifpn_image.png) <!-- Replace with actual image -->
+![BiFPN Architecture](bifpn_image/bifpn.png) <!-- Replace with actual image -->
 
 ---
 
