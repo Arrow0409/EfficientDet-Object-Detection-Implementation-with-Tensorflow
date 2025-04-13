@@ -89,6 +89,10 @@ Ensure that you have all the necessary libraries installed before running the sc
 
 1. Python 3.6 or higher
 2. TensorFlow 2.x
-3. NumPy
-4. OpenCV
-5. COCO API (pycocotools)
+4. NumPy
+5. OpenCV
+6. COCO API (pycocotools)
+
+## References
+
+https://github.com/google/automl/tree/master/efficientdet
